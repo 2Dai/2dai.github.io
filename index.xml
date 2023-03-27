@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dylan Iffrig</title>
@@ -6,10 +6,18 @@
     <description>Recent content on Dylan Iffrig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 22 Aug 2015 06:42:21 -0700</lastBuildDate>
-    
-	<atom:link href="https://2dai.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 22 Aug 2015 06:42:21 -0700</lastBuildDate><atom:link href="https://2dai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[EN] - Insomnihack 23 - Andropwn writeup</title>
+      <link>https://2dai.github.io/blog/en-insomnihack-23-andropwn-writeup/</link>
+      <pubDate>Mon, 27 Mar 2023 04:05:25 -0600</pubDate>
+      
+      <guid>https://2dai.github.io/blog/en-insomnihack-23-andropwn-writeup/</guid>
+      <description>This challenge is a vulnerable android application. The attacker needs to exploit IPCs and Permissions issues to compromise the application and leak the flag.
+Description of the challenge Our administrator saved a sensitive note in his note-taking application. I convinced him to install your mobile application and start the main activity on his device, please find a way to leak the notes.
+System running: system-images;android-30;google_apis_playstore;x86_64
+Solution When we run the application in an Android Emulator, we can quickly see that the application is a basic Note application.</description>
+    </item>
     
     <item>
       <title>[FR] - Présélection Française pour l&#39;ECSC 2019</title>
@@ -18,7 +26,7 @@
       
       <guid>https://2dai.github.io/blog/fr-pr%C3%A9s%C3%A9lection-fran%C3%A7aise-pour-lecsc-2019/</guid>
       <description>Le lundi 13 au mercredi 22 mai 2019 s&amp;rsquo;est déroulé les phase de présélection nationale pour l&amp;rsquo;European Cybersecurity challenge (ECSC). Près de 1 200 candidats se sont affronté pendant 1 semaine dans l&amp;rsquo;objectif de représenter la France pour la compétion européenne qui se déroulera à Bucarest.
- Près d’une quarantaine d’épreuves ont été mises en ligne pendant dix jours afin de tester les candidat(e)s, mais aussi les curieux et les curieuses, sur des domaines variés : le web, la cryptographie, reverse, forensic, etc.</description>
+Près d’une quarantaine d’épreuves ont été mises en ligne pendant dix jours afin de tester les candidat(e)s, mais aussi les curieux et les curieuses, sur des domaines variés : le web, la cryptographie, reverse, forensic, etc.</description>
     </item>
     
     <item>
